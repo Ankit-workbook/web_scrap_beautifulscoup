@@ -1,0 +1,1 @@
+**Web Scraping** is the process of extracting data from websites using automated scripts. It allows users to collect and analyze large amounts of web data efficiently. Common tools for web scraping include **BeautifulSoup, Scrapy, and Selenium**. It is widely used for data analysis, price monitoring, sentiment analysis, and more.
